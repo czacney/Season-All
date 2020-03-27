@@ -1,5 +1,5 @@
 # Season-all
-  [![GitHub license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/marshdugan)
+  [![GitHub license](https://img.shields.io/badge/license-MIT-blue)](https://github.com/czacney)
 
 # Description
 
@@ -39,9 +39,4 @@ This app allows user's to see nearby trails based on their current location.
   ~~~
   npm test
   ~~~
-
-# Questions
-  <img src="https://avatars2.githubusercontent.com/u/54903099?v=4" alt="avatar" style="border-radius: 16px" width="30"/>
-
-  If you have any questions about the repo, open an issue or contact [marshdugan](https://api.github.com/users/marshdugan) or send me an email at null;
 
