@@ -40,3 +40,4 @@ This app allows user's to see nearby trails based on their current location.
   npm test
   ~~~
 
+https://season-all.herokuapp.com/
